@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "version": "1.0.0",
+  "name": "Classic Chrome Dark Blue",
+  "theme": {
+    "colors": {
+      "frame": [14, 53, 98],
+      "frame_inactive": [14, 53, 98],
+      "ntp_background": [9, 92, 166],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [255, 255, 255],
+      "bookmark_text": [255, 255, 255],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [6, 55, 116],
+      "ntp_header": [150, 150, 150],
+      "toolbar": [21, 83, 154],
+      "toolbar_text": [255, 255, 255],
+      "button_background": [14, 53, 98],
+      "omnibox_background": [29, 67, 117],
+      "omnibox_text": [255, 255, 255]
+    },
+    "tints": {
+      "buttons": [0, 0, 1]
+    }
+  }
+}
